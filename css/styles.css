@@ -1,0 +1,87 @@
+html{
+    background-color: black;
+}
+
+#head-text{
+    text-align: center;
+    color: antiquewhite;
+    padding: 5px;
+    border: 5px;
+    margin-top: 20px;
+}
+
+.head{
+    text-align: center;
+    padding: 5px;
+    border: 5px;
+    margin-top: 20px;
+}
+
+img{
+    display: block;
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+    border: 5px;
+    margin: auto auto;
+}
+
+p{
+    text-align: center;
+    padding: 2px;
+    border: 5px;
+    margin: auto auto;
+}
+
+a.class-rec:link{
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+a.class-rec:visited{
+    color: goldenrod;
+    text-decoration: underline;
+}
+
+#links{
+    text-align: center;
+    padding: 10px;
+    border: 5px;
+    margin: auto auto;
+}
+
+.top-text,
+.bottom-text{
+    text-align: center;
+    color: antiquewhite;
+}
+
+.top-text{
+    padding: 2px;
+    border-top: 2px;
+    margin-top: 100px;
+}
+
+.botttom-text{
+    padding: 2px;
+    border-top: 5px;
+    margin-bottom: 100px;
+}
+
+a.class-git:link{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+a.class-git:visited{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+#github{
+    text-align: center;
+    padding: 2px;
+    border: 5px;
+    margin-top: 100px;
+}
+
