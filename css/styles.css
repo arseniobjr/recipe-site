@@ -10,26 +10,17 @@ html{
     margin-top: 20px;
 }
 
-.head{
-    text-align: center;
-    padding: 5px;
-    border: 5px;
-    margin-top: 20px;
-}
-
 img{
     display: block;
     height: 400px;
     width: 400px;
     padding: 20px;
-    border: 5px;
     margin: auto auto;
 }
 
 p{
     text-align: center;
-    padding: 2px;
-    border: 5px;
+    padding: 5px;
     margin: auto auto;
 }
 
@@ -44,28 +35,18 @@ a.class-rec:visited{
 }
 
 #links{
-    text-align: center;
     padding: 10px;
-    border: 5px;
-    margin: auto auto;
 }
 
-.top-text,
-.bottom-text{
+.nice-txt-top,
+.nice-txt-bottom{
     text-align: center;
     color: antiquewhite;
+    padding: 4px;
 }
 
-.top-text{
-    padding: 2px;
-    border-top: 2px;
+.nice-txt-top{
     margin-top: 100px;
-}
-
-.botttom-text{
-    padding: 2px;
-    border-top: 5px;
-    margin-bottom: 100px;
 }
 
 a.class-git:link{
@@ -78,10 +59,8 @@ a.class-git:visited{
     text-decoration: none;
 }
 
-#github{
+#github-link{
     text-align: center;
-    padding: 2px;
-    border: 5px;
-    margin-top: 100px;
+    margin-top: 85px;
 }
 
